@@ -1,8 +1,6 @@
 //===----------------------------------------------------------------------===//
 // log - Thread-safe logging library
 //
-// This is free and unencumbered software released into the public domain.
-//
 // This library provides a set of thread-safe logging macros. Colored output is
 // enabled by default and can be disabled by defining LOG_DISABLE_COLORS before
 // including this header.
