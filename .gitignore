@@ -1,0 +1,12 @@
+# Ignore build directories
+build/
+out/
+cmake-build-*/
+
+# Ignore tools
+.idea/
+.vscode/
+.vs/
+.clangd/
+.cache/
+compile_commands.json
